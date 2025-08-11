@@ -57,3 +57,5 @@ jobs:
 
             echo "===== Tail app.log ====="
             tail -n 20 "$APP_DIR/app.log" || true
+
+            
